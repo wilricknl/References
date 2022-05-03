@@ -1,0 +1,20 @@
+author-email: 83393813+wilricknl@users.noreply.github.com
+author-name: wilricknl
+
+platform: github
+base-url: https://api.github.com/
+repo: wilricknl/References
+base-branch: main
+branch: multi-gitter-example
+
+conflict-strategy: skip
+dry-run: true
+interactive: true
+
+commit-message: |
+  Update year to 2023 in LICENSE
+
+  This pull request is generated with multi-gitter by wilricknl.
+pr-title: Example pull request using multi-gitter
+pr-body: |
+  This pull request is generated with multi-gitter by wilricknl.
