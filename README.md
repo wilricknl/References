@@ -19,3 +19,5 @@ of software that I use most often.
 
 * [multi-gitter](multi-gitter/README.md): a tool to make changes in multiple
   repositories simultaneously.
+* [pre-commit](pre-commit/README.md): a framework for managing and maintaining
+  multi-language pre-commit hooks.
