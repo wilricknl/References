@@ -1,0 +1,7 @@
+{
+    "dbpath" : "db",
+    "repos" : {
+        "Hound" : { "url" : "https://github.com/etsy/hound.git" },
+        "References": { "url": "https://github.com/wilricknl/References.git" } 
+    }
+}

@@ -17,6 +17,7 @@ of software that I use most often.
 
 # Collection
 
+* [hound](hound/README.md): an extremely fast source code search engine.
 * [multi-gitter](multi-gitter/README.md): a tool to make changes in multiple
   repositories simultaneously.
 * [pre-commit](pre-commit/README.md): a framework for managing and maintaining
